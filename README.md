@@ -1,6 +1,6 @@
 # alphabeticlist
 
-Alphabetic list with flutter.
+Flutter'da Alfebetik Listeler.
 
 ## Screen
 
